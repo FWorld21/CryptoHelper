@@ -21,11 +21,10 @@ INSTRUCTION
 3. That's all! Now you can launch my script:
 		
 		./cryptohelper.py
-   
+		
 3.1. Or:
-    python cryptohelper.py
-
-
-
+		
+		python cryptohelper.py
+   
 
 THANK YOU		
