@@ -12,7 +12,7 @@ INSTRUCTION
 
 1. You need to clone this repository using this command:
 		
-		git clone https://github.com/FWorld21/CryptoHelper.gi
+		git clone https://github.com/FWorld21/CryptoHelper.git
 
 2. Go to the directory and give exec permission for script:
 		
