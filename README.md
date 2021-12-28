@@ -16,7 +16,7 @@ INSTRUCTION
 
 2. Go to the directory and give exec permission for script:
 		
-		cd CryptoHelper && chmod +x cryptohelper.sh
+		cd CryptoHelper && chmod +x cryptohelper.py
 
 3. That's all! Now you can launch my script:
 		
